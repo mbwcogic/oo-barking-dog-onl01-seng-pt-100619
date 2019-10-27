@@ -1,1 +1,5 @@
-# Your code goes here!
+class Dog 
+
+end
+
+  # Your code goes here!
